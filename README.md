@@ -28,12 +28,13 @@ To keep the structure clean and well aligned, I have used HTML tables for the he
 ---
 
 ## Link
+
 You can view the live version of the project here:
-- GitHub pages: [anshul-padiyar.github.io/HTML-Resume](https://anshul-padiyar.github.io/HTML-Resume/)
-- Vercel: [html-resume-steel.vercel.app](https://html-resume-steel.vercel.app/)
+- GitHub pages: [anshulx77.github.io/HTML-Resume](https://anshulx77.github.io/HTML-Resume/)
+- Vercel: [html-resume-ap.vercel.app](https://html-resume-ap.vercel.app/)
 
 ---
 
 ## Screenshot
 
-![Resume Screenshot](public/HTML-Resume.png)
+![Resume Screenshot](public/screenshot.png)
